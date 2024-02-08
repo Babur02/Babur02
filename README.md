@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Babur02/Babur02/blob/e49fd181ac97eefcc04e1c3ef9d111e90910dc2b/CoverPhoto.jpg)]()
+[![MasterHead](https://github.com/Babur02/Babur02/blob/main/CoverPhoto.jpg)]()
 <h1 align="center">Hey🙋‍♂️, How you doin'?&nbsp; I'm Babar Qureshi  <img src="https://github.com/Babur02/Babur02/blob/a12f21e2bd173e06c83d0ef75bc3569b47709821/Developer.gif"  height="40">. </h1>
 <h3 align="center">Software Engineer from India</h3>
 <img align = "right" width = "500" alt="coding" src="https://th.bing.com/th/id/OIP.30fuPl3x9KvMB2ZYW0k7owHaEK?pid=ImgDet&rs=1">
