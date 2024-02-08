@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I enjoy Programming Memes & Podcasts**
 
 ### What are my featured projects:❓🚀:
-- [Insta-clone](https://github.com/Babur02/Insta-Style-WebApp.git)📱
+- [Insta-style](https://github.com/Babur02/Insta-Style-WebApp.git)📱
 - [E-Raktdaan](https://github.com/Babur02/E-Raktdaan.git)🩸   
 - [Keylogger](https://github.com/Babur02/Keylogger.git)👨‍💻🗝️  
 - [Geolocation Tracker ](https://github.com/Babur02/Geolocation-Tracker.git)🌎📍    
