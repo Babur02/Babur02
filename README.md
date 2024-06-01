@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babur02&label=Profile%20views&color=0e75b6&style=flat" alt="babur02" /> </p>
 
-- 💬 Ask me about **Java, DSA, C++**
+- 💬 Ask me about **WebDev, Java, DSA**
 
 - 📫 How to reach me <a href="baburqureshi002@gmail.com">email</a>
 
