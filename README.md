@@ -12,6 +12,8 @@
 - ⚡ Fun fact **I enjoy Programming Memes & Podcasts**
 
 ### What are my featured projects:❓🚀:
+- [Algobox](https://www.npmjs.com/package/algobox)📦
+- [iTube](https://new-itube.netlify.app/)🎥
 - [Insta-style](https://github.com/Babur02/Insta-Style-WebApp.git)📱
 - [E-Raktdaan](https://github.com/Babur02/E-Raktdaan.git)🩸   
 - [Keylogger](https://github.com/Babur02/Keylogger.git)👨‍💻🗝️  
